@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: |cff668AF5HideFrames|r  |cff616A85— by|r  |cff5BCEFAA|cffF5A9B8n|cffffffffy|cffF5A9B8a|cff5BCEFAD.|r
+## Notes: Hide any frame by name or 'Parent.Child path.' <3<3<3<3<3<3<3<3<3<3<3
+## Author: Anya D.
+## Version: 1.0
+## SavedVariables: HideFramesDB
+
+Core.lua
+Inspector.lua
+Minimap.lua
+UI.lua
+Slash.lua
